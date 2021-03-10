@@ -7,9 +7,9 @@
 HE & AP & SAP shell model + tracer modification
 
 ## Installation
-* **For WGC users**, copy `content` and `particles` into `[WoWS folder]/bin/[largest number]/res_mods/[version number]/`
-* **For Steam users**, copy `content` and `particles` into `/steamapps/common/World of Warships/bin/[largest number]/res_mods/[version number]/`
+* **For WGC users**, copy `content` and `particles` into `[WoWS folder]/bin/[largest number]/res_mods/`
+* **For Steam users**, copy `content` and `particles` into `/steamapps/common/World of Warships/bin/[largest number]/res_mods/`
 
 ## 使用方法
-* **WG游戏中心用户**请把`content`和`particles`放到`[游戏安装目录]/bin/[数字最大的那个]/res_mods/[版本号]/`里面
-* **Steam客户端用户**请把`content`和`particles`放到`steamapps/common/World of Warships/bin/[数字最大的那个]/res_mods/[版本号]/`里面
+* **WG游戏中心用户**请把`content`和`particles`放到`[游戏安装目录]/bin/[数字最大的那个]/res_mods/`里面
+* **Steam客户端用户**请把`content`和`particles`放到`steamapps/common/World of Warships/bin/[数字最大的那个]/res_mods/`里面
